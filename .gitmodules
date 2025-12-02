@@ -1,0 +1,18 @@
+[submodule "core/Kadnet"]
+	path = core/Kadnet
+	url = https://github.com/enzoblain/Kadnet
+[submodule "libs/Cryptography"]
+	path = libs/Cryptography
+	url = https://github.com/enzoblain/Cryptography
+[submodule "apps/Starship"]
+	path = apps/Starship
+	url = https://github.com/enzoblain/Starship
+[submodule "core/CosmaDB"]
+	path = core/CosmaDB
+	url = https://github.com/enzoblain/CosmaDB
+[submodule "core/NebulisChain"]
+	path = core/NebulisChain
+	url = https://github.com/enzoblain/NebulisChain
+[submodule "apps/Appstore"]
+	path = apps/Appstore
+	url = https://github.com/enzoblain/AppStore
