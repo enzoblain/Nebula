@@ -16,6 +16,6 @@
 [submodule "apps/Appstore"]
 	path = apps/Appstore
 	url = https://github.com/enzoblain/AppStore
-[submodule "Landing page"]
-	path = Landing page
+[submodule "Landing-page"]
+	path = Landing-page
 	url = https://github.com/enzoblain/Landing-page
