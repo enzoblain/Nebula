@@ -36,7 +36,7 @@ This module is planned but not yet implemented.
 ---
 
 ### **App store — Decentralized application platform**  
-👉 https://github.com/enzoblain/App-store
+👉 https://github.com/enzoblain/AppStore
 
 The Playstore will act as Nebula’s decentralized application distribution system.
 It will host only applications built specifically for the Nebula ecosystem, ensuring full compatibility with its decentralized networking, storage, and blockchain layers.
