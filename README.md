@@ -65,6 +65,15 @@ Although useful across the ecosystem, it is not considered a core component of N
 
 ---
 
+### **DataStructures**  
+👉 https://github.com/enzoblain/DataStructures
+
+The `DataStructures` crate provides efficient, reusable data structure implementations for the Nebula ecosystem.  
+It will include optimized implementations of common data structures such as B-Trees, hash tables, and other structures essential for distributed systems.  
+These structures are designed to support scalability and performance across Nebula's core modules.
+
+---
+
 ## 🚀 Vision
 
 Nebula aims to evolve into a modular, open, and decentralized ecosystem where each part remains independent yet interoperable.  
