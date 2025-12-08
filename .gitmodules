@@ -22,3 +22,6 @@
 [submodule "libs/Datastructures"]
 	path = libs/Datastructures
 	url = https://github.com/enzoblain/Datastructures
+[submodule "libs/Executor"]
+	path = libs/Executor
+	url = https://github.com/enzoblain/Executor.git
