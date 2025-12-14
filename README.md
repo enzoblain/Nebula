@@ -65,12 +65,12 @@ Although useful across the ecosystem, it is not considered a core component of N
 
 ---
 
-### **DataStructures**  
-👉 https://github.com/enzoblain/DataStructures
+### **Async**  
+👉 https://github.com/enzoblain/Async
 
-The `DataStructures` crate provides efficient, reusable data structure implementations for the Nebula ecosystem.  
-It will include optimized implementations of common data structures such as B-Trees, hash tables, and other structures essential for distributed systems.  
-These structures are designed to support scalability and performance across Nebula's core modules.
+The `Async` crate is a lightweight, predictable task runner designed for Nebula's asynchronous and multi-threaded operations.  
+It provides fundamental building blocks to schedule, drive, and monitor units of work with flexible support for both synchronous and asynchronous primitives, as well as concurrent multi-threaded execution.  
+This library enables efficient task management and execution across Nebula's distributed components.
 
 ---
 
