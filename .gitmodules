@@ -20,3 +20,6 @@
 	path = Landing page
 	url = https://github.com/enzoblain/Landing-page
 
+[submodule "libs/Reactor"]
+	path = libs/Reactor
+	url = https://github.com/enzoblain/Reactor.git
