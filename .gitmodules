@@ -19,6 +19,4 @@
 [submodule "Landing page"]
 	path = Landing page
 	url = https://github.com/enzoblain/Landing-page
-[submodule "libs/Async"]
-	path = libs/Async
-	url = https://github.com/enzoblain/Async.git
+
